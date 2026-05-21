@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f66d7e1600fb18a08e57686320aff96c4e387cd469dce9a1e29a4ef52f868552
-size 56
+# Ignore the entire archive folder
+digit-recognizer/
+
+anime.csv
+rating.csv
