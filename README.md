@@ -1,4 +1,4 @@
-# Machine Learning Learning Repository
+# Machine Learning Practice Repository
 
 This repository contains my machine learning practice notebooks, datasets, and small projects. The focus is on learning core concepts by implementing models, exploring real datasets, and gradually moving from basic algorithms to applied machine learning workflows.
 
@@ -68,7 +68,7 @@ This repository contains my machine learning practice notebooks, datasets, and s
 ### Recommender Systems
 
 - `recommender_system.ipynb`  
-  Anime recommendation system practice, including popularity-based and content-based recommendation ideas.
+  Anime recommendation system practice using popularity-based recommendations, content-based filtering, and collaborative filtering.
 
 - `anime.csv`  
   Anime metadata, including title, genre, type, episodes, rating, and members.
@@ -121,13 +121,18 @@ The repository currently follows this progression:
 
 ## Recommender System Direction
 
-The recommender system project uses the anime dataset and is being built in stages:
+The recommender system project uses the anime dataset and is organized into three recommendation approaches:
 
-1. Data loading and cleaning
-2. Missing value handling
-3. Popularity-based recommender
-4. Content-based recommender using anime features such as genre and type
-5. Collaborative filtering using user rating behavior
+1. Popularity-based recommender  
+   Recommends anime using overall rating and member count.
+
+2. Content-based recommender  
+   Recommends anime similar to a selected title using item features such as genre and type.
+
+3. Collaborative filtering recommender  
+   Recommends anime using user rating behavior and cosine similarity between anime.
+
+The notebook also includes data loading, missing value handling, exploratory data analysis, and user-level recommendation examples.
 
 ## Note
 
