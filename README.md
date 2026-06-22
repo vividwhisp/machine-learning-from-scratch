@@ -1,4 +1,4 @@
-# Machine Learning Practice Repository
+﻿# Machine Learning Practice Repository
 
 This repository contains my machine learning practice notebooks, datasets, and small projects. The focus is on learning core concepts by implementing models, exploring real datasets, and gradually moving from basic algorithms to applied machine learning workflows.
 
@@ -137,3 +137,4 @@ The notebook also includes data loading, missing value handling, exploratory dat
 ## Note
 
 This is an active learning repository. The notebooks, datasets, and project structure may change as the work becomes more complete and better organized.
+Next step is SVM ,KNN and whatever was not covered in the ML spec and then after that RAG, Agents, MCP , etc
