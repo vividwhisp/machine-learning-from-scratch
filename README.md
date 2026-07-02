@@ -35,6 +35,12 @@ This repository contains my machine learning practice notebooks, datasets, and s
 - `decision-tree-from-scratch.ipynb`  
   Basic decision tree implementation without relying on scikit-learn's tree model.
 
+- `k-nearest-neighbours.ipynb`  
+  KNN classification on the Breast Cancer Wisconsin dataset with accuracy analysis across different K values.
+
+- `naive-bayes.ipynb`  
+  Naive Bayes classifier (in progress).
+
 ### Neural Networks
 
 - `neural_net_with_mnist_from_scratch.ipynb`  
@@ -101,6 +107,8 @@ This repository contains my machine learning practice notebooks, datasets, and s
 - K-Means clustering
 - Unsupervised learning
 - Anomaly detection
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
 - Recommender systems
 - Working with real datasets
 
@@ -117,7 +125,9 @@ The repository currently follows this progression:
 7. Unsupervised learning
 8. K-Means clustering
 9. Anomaly detection
-10. Recommender systems
+10. K-Nearest Neighbors (KNN)
+11. Naive Bayes (in progress)
+12. Recommender systems
 
 ## Recommender System Direction
 
@@ -137,4 +147,4 @@ The notebook also includes data loading, missing value handling, exploratory dat
 ## Note
 
 This is an active learning repository. The notebooks, datasets, and project structure may change as the work becomes more complete and better organized.
-Next step is SVM ,KNN and whatever was not covered in the ML spec and then after that RAG, Agents, MCP , etc
+Next step is SVM and whatever was not covered in the ML spec and then after that RAG, Agents, MCP, etc
