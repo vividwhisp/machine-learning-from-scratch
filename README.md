@@ -39,7 +39,7 @@ This repository contains my machine learning practice notebooks, datasets, and s
   KNN classification on the Breast Cancer Wisconsin dataset with accuracy analysis across different K values.
 
 - `naive-bayes.ipynb`  
-  Naive Bayes classifier (in progress).
+  Gaussian Naive Bayes classifier on the Breast Cancer Wisconsin dataset with evaluation and ROC curve.
 
 ### Neural Networks
 
@@ -126,7 +126,7 @@ The repository currently follows this progression:
 8. K-Means clustering
 9. Anomaly detection
 10. K-Nearest Neighbors (KNN)
-11. Naive Bayes (in progress)
+11. Naive Bayes
 12. Recommender systems
 
 ## Recommender System Direction
